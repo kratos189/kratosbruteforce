@@ -1,8 +1,13 @@
 
-pkg i python -y
-pip install -r requirements.txt
-ls
-python aevbrute.py
-username :
 
-wordlist: pass.txt
+pkg i python -y
+
+pip install -r requirements.txt
+
+ls
+
+python3 bruteforce.py
+
+Kullanıcı adı :
+
+Şifre Listesi : pass.txt
